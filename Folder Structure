@@ -1,0 +1,11 @@
+disease-prediction-ai/
+│
+├── dataset/
+│   └── disease_data.csv
+│
+├── model/
+│   └── disease_model.py
+│
+├── app.py
+├── requirements.txt
+└── README.md
